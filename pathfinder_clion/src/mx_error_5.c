@@ -23,7 +23,7 @@ void mx_error_5(char *filename) {
         }
 
         // if line has more or less then 1 ',' OR line is empty OR if number of dashes != 1
-        if ((mx_count_character(temp_str, ',') != 1) || (temp_str == '\0') || (mx_count_character(temp_str, '-') != 1)) {
+        if ((mx_count_character(temp_str, ',') != 1) || (temp_str == (void *)0) || (mx_count_character(temp_str, '-') != 1)) {
             mx_strdel(&temp_str);
             error(number_of_str);
         }
