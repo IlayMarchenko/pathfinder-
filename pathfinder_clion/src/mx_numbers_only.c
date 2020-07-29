@@ -1,4 +1,4 @@
-#include "pathfinder.h"
+#include "../inc/pathfinder.h"
 
 void mx_numbers_only(char *string) {
     int count = 0;
@@ -11,3 +11,4 @@ void mx_numbers_only(char *string) {
     }
     string -= count;
 }
+

@@ -7,4 +7,6 @@ void mx_error_check(int argc, char *argv[]) {
     mx_error_4(argv[1]);
     mx_error_5(argv[1]);
     mx_error_6(argv[1]);
+    mx_error_7(argv[1]);
+    mx_error_8(argv[1]);
 }

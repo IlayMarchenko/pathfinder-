@@ -1,4 +1,4 @@
-#include "pathfinder.h"
+#include "../inc/pathfinder.h"
 
 void mx_error_7(char *filename) {
     char **array;

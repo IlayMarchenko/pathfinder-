@@ -1,4 +1,4 @@
-#include "pathfinder.h"
+#include "../inc/pathfinder.h"
 
 void mx_del_all_numbers_and_com(char *string) {
     int count = 0;
