@@ -1,11 +1,6 @@
 #include "../inc/pathfinder.h"
 
-static void check_error(double result) {
-    if (result > 2147483647) {
-        mx_printerr("error: sum of bridges lengths is too big");
-        exit(1);
-    }
-}
+static void check_error(double result);
 
 void mx_error_8(char *filename) {
     char **array;
@@ -28,3 +23,11 @@ void mx_error_8(char *filename) {
     string -= count;
     mx_strdel(&string);
 }
+
+static void check_error(double result) {
+    if (result > 2147483647) {
+        mx_printerr("error: sum of bridges lengths is too big");
+        exit(1);
+    }
+}
+

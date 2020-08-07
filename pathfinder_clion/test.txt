@@ -1,11 +1,7 @@
 5
-Kiev-Denver,900
-Lviv-Kiev,888
-Kharkov-Donetsk,800
-Lviv-Kiev,888
-Kharkov-Donetsk,800
-Kiev-Denver,900
-Lviv-Kiev,888
-Kiev-Denver,900
-Kharkov-Donetsk,800
-Lviv-Kiev,888
+A-B,11
+A-C,10
+B-D,5
+C-D,6
+C-E,15
+D-E,4

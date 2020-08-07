@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="pathfinder_clion"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/imarchenko/CLionProjects/pathfinder_clion/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/imarchenko/CLionProjects/pathfinder_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/imarchenko/CLionProjects/pathfinder_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/imarchenko/CLionProjects/pathfinder_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/imarchenko/CLionProjects/pathfinder_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/imarchenko/CLionProjects/pathfinder_clion/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/imarchenko/CLionProjects/pathfinder_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/imarchenko/CLionProjects/pathfinder_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/imarchenko/CLionProjects/pathfinder_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/imarchenko/CLionProjects/pathfinder_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/imarchenko/CLionProjects/pathfinder_clion/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/imarchenko/CLionProjects/pathfinder_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/imarchenko/CLionProjects/pathfinder_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/imarchenko/CLionProjects/pathfinder_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/imarchenko/CLionProjects/pathfinder_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pathfinder_clion">
+				<Option output="/Users/imarchenko/CLionProjects/pathfinder_clion/cmake-build-debug/pathfinder_clion" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/imarchenko/CLionProjects/pathfinder_clion/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/imarchenko/CLionProjects/pathfinder_clion/inc"/>
+					<Add directory="/Users/imarchenko/CLionProjects/pathfinder_clion/libmx/inc"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/imarchenko/CLionProjects/pathfinder_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 pathfinder_clion"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/imarchenko/CLionProjects/pathfinder_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/imarchenko/CLionProjects/pathfinder_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/imarchenko/CLionProjects/pathfinder_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pathfinder_clion/fast">
+				<Option output="/Users/imarchenko/CLionProjects/pathfinder_clion/cmake-build-debug/pathfinder_clion" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/imarchenko/CLionProjects/pathfinder_clion/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/imarchenko/CLionProjects/pathfinder_clion/inc"/>
+					<Add directory="/Users/imarchenko/CLionProjects/pathfinder_clion/libmx/inc"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/imarchenko/CLionProjects/pathfinder_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 pathfinder_clion/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/imarchenko/CLionProjects/pathfinder_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/imarchenko/CLionProjects/pathfinder_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/imarchenko/CLionProjects/pathfinder_clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/imarchenko/CLionProjects/pathfinder_clion/src/main.c">
+			<Option target="pathfinder_clion"/>
+		</Unit>
+		<Unit filename="/Users/imarchenko/CLionProjects/pathfinder_clion/src/mx_add_all_from_array.c">
+			<Option target="pathfinder_clion"/>
+		</Unit>
+		<Unit filename="/Users/imarchenko/CLionProjects/pathfinder_clion/src/mx_append_city_to_arr.c">
+			<Option target="pathfinder_clion"/>
+		</Unit>
+		<Unit filename="/Users/imarchenko/CLionProjects/pathfinder_clion/src/mx_atoi.c">
+			<Option target="pathfinder_clion"/>
+		</Unit>
+		<Unit filename="/Users/imarchenko/CLionProjects/pathfinder_clion/src/mx_count_character.c">
+			<Option target="pathfinder_clion"/>
+		</Unit>
+		<Unit filename="/Users/imarchenko/CLionProjects/pathfinder_clion/src/mx_del_all_numbers_and_com.c">
+			<Option target="pathfinder_clion"/>
+		</Unit>
+		<Unit filename="/Users/imarchenko/CLionProjects/pathfinder_clion/src/mx_del_dub.c">
+			<Option target="pathfinder_clion"/>
+		</Unit>
+		<Unit filename="/Users/imarchenko/CLionProjects/pathfinder_clion/src/mx_del_not_alphabet.c">
+			<Option target="pathfinder_clion"/>
+		</Unit>
+		<Unit filename="/Users/imarchenko/CLionProjects/pathfinder_clion/src/mx_error_1.c">
+			<Option target="pathfinder_clion"/>
+		</Unit>
+		<Unit filename="/Users/imarchenko/CLionProjects/pathfinder_clion/src/mx_error_2.c">
+			<Option target="pathfinder_clion"/>
+		</Unit>
+		<Unit filename="/Users/imarchenko/CLionProjects/pathfinder_clion/src/mx_error_3.c">
+			<Option target="pathfinder_clion"/>
+		</Unit>
+		<Unit filename="/Users/imarchenko/CLionProjects/pathfinder_clion/src/mx_error_4.c">
+			<Option target="pathfinder_clion"/>
+		</Unit>
+		<Unit filename="/Users/imarchenko/CLionProjects/pathfinder_clion/src/mx_error_5.c">
+			<Option target="pathfinder_clion"/>
+		</Unit>
+		<Unit filename="/Users/imarchenko/CLionProjects/pathfinder_clion/src/mx_error_6.c">
+			<Option target="pathfinder_clion"/>
+		</Unit>
+		<Unit filename="/Users/imarchenko/CLionProjects/pathfinder_clion/src/mx_error_7.c">
+			<Option target="pathfinder_clion"/>
+		</Unit>
+		<Unit filename="/Users/imarchenko/CLionProjects/pathfinder_clion/src/mx_error_8.c">
+			<Option target="pathfinder_clion"/>
+		</Unit>
+		<Unit filename="/Users/imarchenko/CLionProjects/pathfinder_clion/src/mx_error_check.c">
+			<Option target="pathfinder_clion"/>
+		</Unit>
+		<Unit filename="/Users/imarchenko/CLionProjects/pathfinder_clion/src/mx_floydWarshall.c">
+			<Option target="pathfinder_clion"/>
+		</Unit>
+		<Unit filename="/Users/imarchenko/CLionProjects/pathfinder_clion/src/mx_get_distance.c">
+			<Option target="pathfinder_clion"/>
+		</Unit>
+		<Unit filename="/Users/imarchenko/CLionProjects/pathfinder_clion/src/mx_numbers_only.c">
+			<Option target="pathfinder_clion"/>
+		</Unit>
+		<Unit filename="/Users/imarchenko/CLionProjects/pathfinder_clion/src/mx_read_one_line.c">
+			<Option target="pathfinder_clion"/>
+		</Unit>
+		<Unit filename="/Users/imarchenko/CLionProjects/pathfinder_clion/src/mx_struct_init.c">
+			<Option target="pathfinder_clion"/>
+		</Unit>
+		<Unit filename="/Users/imarchenko/CLionProjects/pathfinder_clion/src/mx_the_biggest_name.c">
+			<Option target="pathfinder_clion"/>
+		</Unit>
+		<Unit filename="/Users/imarchenko/CLionProjects/pathfinder_clion/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
