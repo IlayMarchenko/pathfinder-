@@ -231,6 +231,33 @@ src/mx_atoi.c.s:
 	$(MAKE) -f CMakeFiles/pathfinder_clion.dir/build.make CMakeFiles/pathfinder_clion.dir/src/mx_atoi.c.s
 .PHONY : src/mx_atoi.c.s
 
+src/mx_back_path.o: src/mx_back_path.c.o
+
+.PHONY : src/mx_back_path.o
+
+# target to build an object file
+src/mx_back_path.c.o:
+	$(MAKE) -f CMakeFiles/pathfinder_clion.dir/build.make CMakeFiles/pathfinder_clion.dir/src/mx_back_path.c.o
+.PHONY : src/mx_back_path.c.o
+
+src/mx_back_path.i: src/mx_back_path.c.i
+
+.PHONY : src/mx_back_path.i
+
+# target to preprocess a source file
+src/mx_back_path.c.i:
+	$(MAKE) -f CMakeFiles/pathfinder_clion.dir/build.make CMakeFiles/pathfinder_clion.dir/src/mx_back_path.c.i
+.PHONY : src/mx_back_path.c.i
+
+src/mx_back_path.s: src/mx_back_path.c.s
+
+.PHONY : src/mx_back_path.s
+
+# target to generate assembly for a file
+src/mx_back_path.c.s:
+	$(MAKE) -f CMakeFiles/pathfinder_clion.dir/build.make CMakeFiles/pathfinder_clion.dir/src/mx_back_path.c.s
+.PHONY : src/mx_back_path.c.s
+
 src/mx_count_character.o: src/mx_count_character.c.o
 
 .PHONY : src/mx_count_character.o
@@ -582,6 +609,33 @@ src/mx_error_check.c.s:
 	$(MAKE) -f CMakeFiles/pathfinder_clion.dir/build.make CMakeFiles/pathfinder_clion.dir/src/mx_error_check.c.s
 .PHONY : src/mx_error_check.c.s
 
+src/mx_find_all_paths.o: src/mx_find_all_paths.c.o
+
+.PHONY : src/mx_find_all_paths.o
+
+# target to build an object file
+src/mx_find_all_paths.c.o:
+	$(MAKE) -f CMakeFiles/pathfinder_clion.dir/build.make CMakeFiles/pathfinder_clion.dir/src/mx_find_all_paths.c.o
+.PHONY : src/mx_find_all_paths.c.o
+
+src/mx_find_all_paths.i: src/mx_find_all_paths.c.i
+
+.PHONY : src/mx_find_all_paths.i
+
+# target to preprocess a source file
+src/mx_find_all_paths.c.i:
+	$(MAKE) -f CMakeFiles/pathfinder_clion.dir/build.make CMakeFiles/pathfinder_clion.dir/src/mx_find_all_paths.c.i
+.PHONY : src/mx_find_all_paths.c.i
+
+src/mx_find_all_paths.s: src/mx_find_all_paths.c.s
+
+.PHONY : src/mx_find_all_paths.s
+
+# target to generate assembly for a file
+src/mx_find_all_paths.c.s:
+	$(MAKE) -f CMakeFiles/pathfinder_clion.dir/build.make CMakeFiles/pathfinder_clion.dir/src/mx_find_all_paths.c.s
+.PHONY : src/mx_find_all_paths.c.s
+
 src/mx_floydWarshall.o: src/mx_floydWarshall.c.o
 
 .PHONY : src/mx_floydWarshall.o
@@ -690,6 +744,33 @@ src/mx_read_one_line.c.s:
 	$(MAKE) -f CMakeFiles/pathfinder_clion.dir/build.make CMakeFiles/pathfinder_clion.dir/src/mx_read_one_line.c.s
 .PHONY : src/mx_read_one_line.c.s
 
+src/mx_ret_trip_output.o: src/mx_ret_trip_output.c.o
+
+.PHONY : src/mx_ret_trip_output.o
+
+# target to build an object file
+src/mx_ret_trip_output.c.o:
+	$(MAKE) -f CMakeFiles/pathfinder_clion.dir/build.make CMakeFiles/pathfinder_clion.dir/src/mx_ret_trip_output.c.o
+.PHONY : src/mx_ret_trip_output.c.o
+
+src/mx_ret_trip_output.i: src/mx_ret_trip_output.c.i
+
+.PHONY : src/mx_ret_trip_output.i
+
+# target to preprocess a source file
+src/mx_ret_trip_output.c.i:
+	$(MAKE) -f CMakeFiles/pathfinder_clion.dir/build.make CMakeFiles/pathfinder_clion.dir/src/mx_ret_trip_output.c.i
+.PHONY : src/mx_ret_trip_output.c.i
+
+src/mx_ret_trip_output.s: src/mx_ret_trip_output.c.s
+
+.PHONY : src/mx_ret_trip_output.s
+
+# target to generate assembly for a file
+src/mx_ret_trip_output.c.s:
+	$(MAKE) -f CMakeFiles/pathfinder_clion.dir/build.make CMakeFiles/pathfinder_clion.dir/src/mx_ret_trip_output.c.s
+.PHONY : src/mx_ret_trip_output.c.s
+
 src/mx_struct_init.o: src/mx_struct_init.c.o
 
 .PHONY : src/mx_struct_init.o
@@ -765,6 +846,9 @@ help:
 	@echo "... src/mx_atoi.o"
 	@echo "... src/mx_atoi.i"
 	@echo "... src/mx_atoi.s"
+	@echo "... src/mx_back_path.o"
+	@echo "... src/mx_back_path.i"
+	@echo "... src/mx_back_path.s"
 	@echo "... src/mx_count_character.o"
 	@echo "... src/mx_count_character.i"
 	@echo "... src/mx_count_character.s"
@@ -804,6 +888,9 @@ help:
 	@echo "... src/mx_error_check.o"
 	@echo "... src/mx_error_check.i"
 	@echo "... src/mx_error_check.s"
+	@echo "... src/mx_find_all_paths.o"
+	@echo "... src/mx_find_all_paths.i"
+	@echo "... src/mx_find_all_paths.s"
 	@echo "... src/mx_floydWarshall.o"
 	@echo "... src/mx_floydWarshall.i"
 	@echo "... src/mx_floydWarshall.s"
@@ -816,6 +903,9 @@ help:
 	@echo "... src/mx_read_one_line.o"
 	@echo "... src/mx_read_one_line.i"
 	@echo "... src/mx_read_one_line.s"
+	@echo "... src/mx_ret_trip_output.o"
+	@echo "... src/mx_ret_trip_output.i"
+	@echo "... src/mx_ret_trip_output.s"
 	@echo "... src/mx_struct_init.o"
 	@echo "... src/mx_struct_init.i"
 	@echo "... src/mx_struct_init.s"

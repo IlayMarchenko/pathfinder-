@@ -53,12 +53,23 @@ static void distance_init(char *filename, bridges **big_array, int number_of_str
     close(file);
 }
 
-bridges **mx_struct_init(char *filename) {
+static void init_main_struct (char *filename, t_main *stct) {
+    stct->arr_v = NULL;
+    int n = 0;
+    char *string = mx_file_to_str(filename);
+    mx_del_not_alphabet(string);
+    string = mx_del_dub(string);
+    stct->arr_v = mx_strsplit(string, ' ');
+    mx_strdel(&string);
+}
+
+bridges **mx_struct_init(char *filename, t_main *stct) {
     int number_of_bridges;
     int number_of_strings_in_file;
     int file = open(filename, O_RDONLY);
     char *temp_str = mx_read_one_line(file);
     int first_line = mx_atoi(temp_str);
+    stct->count = first_line;
     mx_strdel(&temp_str);
     close(file);
     number_of_bridges = (int)mx_pow(first_line, 2);
@@ -74,6 +85,7 @@ bridges **mx_struct_init(char *filename) {
     path_init(filename, big_array);
     distance_init(filename, big_array, number_of_strings_in_file, number_of_bridges);
     mx_strdel(&temp_str);
+    init_main_struct(filename, stct);
     return big_array;
 }
 

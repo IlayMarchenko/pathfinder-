@@ -94,6 +94,9 @@
 		<Unit filename="/Users/imarchenko/CLionProjects/pathfinder_clion/src/mx_atoi.c">
 			<Option target="pathfinder_clion"/>
 		</Unit>
+		<Unit filename="/Users/imarchenko/CLionProjects/pathfinder_clion/src/mx_back_path.c">
+			<Option target="pathfinder_clion"/>
+		</Unit>
 		<Unit filename="/Users/imarchenko/CLionProjects/pathfinder_clion/src/mx_count_character.c">
 			<Option target="pathfinder_clion"/>
 		</Unit>
@@ -133,6 +136,9 @@
 		<Unit filename="/Users/imarchenko/CLionProjects/pathfinder_clion/src/mx_error_check.c">
 			<Option target="pathfinder_clion"/>
 		</Unit>
+		<Unit filename="/Users/imarchenko/CLionProjects/pathfinder_clion/src/mx_find_all_paths.c">
+			<Option target="pathfinder_clion"/>
+		</Unit>
 		<Unit filename="/Users/imarchenko/CLionProjects/pathfinder_clion/src/mx_floydWarshall.c">
 			<Option target="pathfinder_clion"/>
 		</Unit>
@@ -143,6 +149,9 @@
 			<Option target="pathfinder_clion"/>
 		</Unit>
 		<Unit filename="/Users/imarchenko/CLionProjects/pathfinder_clion/src/mx_read_one_line.c">
+			<Option target="pathfinder_clion"/>
+		</Unit>
+		<Unit filename="/Users/imarchenko/CLionProjects/pathfinder_clion/src/mx_ret_trip_output.c">
 			<Option target="pathfinder_clion"/>
 		</Unit>
 		<Unit filename="/Users/imarchenko/CLionProjects/pathfinder_clion/src/mx_struct_init.c">

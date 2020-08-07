@@ -356,6 +356,45 @@ CMakeFiles/pathfinder_clion.dir/src/mx_floydWarshall.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/pathfinder_clion.dir/src/mx_floydWarshall.c.s"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/imarchenko/CLionProjects/pathfinder_clion/src/mx_floydWarshall.c -o CMakeFiles/pathfinder_clion.dir/src/mx_floydWarshall.c.s
 
+CMakeFiles/pathfinder_clion.dir/src/mx_find_all_paths.c.o: CMakeFiles/pathfinder_clion.dir/flags.make
+CMakeFiles/pathfinder_clion.dir/src/mx_find_all_paths.c.o: ../src/mx_find_all_paths.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/imarchenko/CLionProjects/pathfinder_clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object CMakeFiles/pathfinder_clion.dir/src/mx_find_all_paths.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/pathfinder_clion.dir/src/mx_find_all_paths.c.o   -c /Users/imarchenko/CLionProjects/pathfinder_clion/src/mx_find_all_paths.c
+
+CMakeFiles/pathfinder_clion.dir/src/mx_find_all_paths.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/pathfinder_clion.dir/src/mx_find_all_paths.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/imarchenko/CLionProjects/pathfinder_clion/src/mx_find_all_paths.c > CMakeFiles/pathfinder_clion.dir/src/mx_find_all_paths.c.i
+
+CMakeFiles/pathfinder_clion.dir/src/mx_find_all_paths.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/pathfinder_clion.dir/src/mx_find_all_paths.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/imarchenko/CLionProjects/pathfinder_clion/src/mx_find_all_paths.c -o CMakeFiles/pathfinder_clion.dir/src/mx_find_all_paths.c.s
+
+CMakeFiles/pathfinder_clion.dir/src/mx_back_path.c.o: CMakeFiles/pathfinder_clion.dir/flags.make
+CMakeFiles/pathfinder_clion.dir/src/mx_back_path.c.o: ../src/mx_back_path.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/imarchenko/CLionProjects/pathfinder_clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object CMakeFiles/pathfinder_clion.dir/src/mx_back_path.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/pathfinder_clion.dir/src/mx_back_path.c.o   -c /Users/imarchenko/CLionProjects/pathfinder_clion/src/mx_back_path.c
+
+CMakeFiles/pathfinder_clion.dir/src/mx_back_path.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/pathfinder_clion.dir/src/mx_back_path.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/imarchenko/CLionProjects/pathfinder_clion/src/mx_back_path.c > CMakeFiles/pathfinder_clion.dir/src/mx_back_path.c.i
+
+CMakeFiles/pathfinder_clion.dir/src/mx_back_path.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/pathfinder_clion.dir/src/mx_back_path.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/imarchenko/CLionProjects/pathfinder_clion/src/mx_back_path.c -o CMakeFiles/pathfinder_clion.dir/src/mx_back_path.c.s
+
+CMakeFiles/pathfinder_clion.dir/src/mx_ret_trip_output.c.o: CMakeFiles/pathfinder_clion.dir/flags.make
+CMakeFiles/pathfinder_clion.dir/src/mx_ret_trip_output.c.o: ../src/mx_ret_trip_output.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/imarchenko/CLionProjects/pathfinder_clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building C object CMakeFiles/pathfinder_clion.dir/src/mx_ret_trip_output.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/pathfinder_clion.dir/src/mx_ret_trip_output.c.o   -c /Users/imarchenko/CLionProjects/pathfinder_clion/src/mx_ret_trip_output.c
+
+CMakeFiles/pathfinder_clion.dir/src/mx_ret_trip_output.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/pathfinder_clion.dir/src/mx_ret_trip_output.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/imarchenko/CLionProjects/pathfinder_clion/src/mx_ret_trip_output.c > CMakeFiles/pathfinder_clion.dir/src/mx_ret_trip_output.c.i
+
+CMakeFiles/pathfinder_clion.dir/src/mx_ret_trip_output.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/pathfinder_clion.dir/src/mx_ret_trip_output.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/imarchenko/CLionProjects/pathfinder_clion/src/mx_ret_trip_output.c -o CMakeFiles/pathfinder_clion.dir/src/mx_ret_trip_output.c.s
+
 # Object files for target pathfinder_clion
 pathfinder_clion_OBJECTS = \
 "CMakeFiles/pathfinder_clion.dir/src/mx_error_check.c.o" \
@@ -380,7 +419,10 @@ pathfinder_clion_OBJECTS = \
 "CMakeFiles/pathfinder_clion.dir/src/mx_del_dub.c.o" \
 "CMakeFiles/pathfinder_clion.dir/src/mx_get_distance.c.o" \
 "CMakeFiles/pathfinder_clion.dir/src/mx_append_city_to_arr.c.o" \
-"CMakeFiles/pathfinder_clion.dir/src/mx_floydWarshall.c.o"
+"CMakeFiles/pathfinder_clion.dir/src/mx_floydWarshall.c.o" \
+"CMakeFiles/pathfinder_clion.dir/src/mx_find_all_paths.c.o" \
+"CMakeFiles/pathfinder_clion.dir/src/mx_back_path.c.o" \
+"CMakeFiles/pathfinder_clion.dir/src/mx_ret_trip_output.c.o"
 
 # External object files for target pathfinder_clion
 pathfinder_clion_EXTERNAL_OBJECTS =
@@ -408,9 +450,12 @@ pathfinder_clion: CMakeFiles/pathfinder_clion.dir/src/mx_del_dub.c.o
 pathfinder_clion: CMakeFiles/pathfinder_clion.dir/src/mx_get_distance.c.o
 pathfinder_clion: CMakeFiles/pathfinder_clion.dir/src/mx_append_city_to_arr.c.o
 pathfinder_clion: CMakeFiles/pathfinder_clion.dir/src/mx_floydWarshall.c.o
+pathfinder_clion: CMakeFiles/pathfinder_clion.dir/src/mx_find_all_paths.c.o
+pathfinder_clion: CMakeFiles/pathfinder_clion.dir/src/mx_back_path.c.o
+pathfinder_clion: CMakeFiles/pathfinder_clion.dir/src/mx_ret_trip_output.c.o
 pathfinder_clion: CMakeFiles/pathfinder_clion.dir/build.make
 pathfinder_clion: CMakeFiles/pathfinder_clion.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/imarchenko/CLionProjects/pathfinder_clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Linking C executable pathfinder_clion"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/imarchenko/CLionProjects/pathfinder_clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Linking C executable pathfinder_clion"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/pathfinder_clion.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

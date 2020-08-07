@@ -17,6 +17,10 @@ CMakeFiles/pathfinder_clion.dir/src/mx_atoi.c.o: ../inc/pathfinder.h
 CMakeFiles/pathfinder_clion.dir/src/mx_atoi.c.o: ../libmx/inc/libmx.h
 CMakeFiles/pathfinder_clion.dir/src/mx_atoi.c.o: ../src/mx_atoi.c
 
+CMakeFiles/pathfinder_clion.dir/src/mx_back_path.c.o: ../inc/pathfinder.h
+CMakeFiles/pathfinder_clion.dir/src/mx_back_path.c.o: ../libmx/inc/libmx.h
+CMakeFiles/pathfinder_clion.dir/src/mx_back_path.c.o: ../src/mx_back_path.c
+
 CMakeFiles/pathfinder_clion.dir/src/mx_count_character.c.o: ../inc/pathfinder.h
 CMakeFiles/pathfinder_clion.dir/src/mx_count_character.c.o: ../libmx/inc/libmx.h
 CMakeFiles/pathfinder_clion.dir/src/mx_count_character.c.o: ../src/mx_count_character.c
@@ -69,6 +73,10 @@ CMakeFiles/pathfinder_clion.dir/src/mx_error_check.c.o: ../inc/pathfinder.h
 CMakeFiles/pathfinder_clion.dir/src/mx_error_check.c.o: ../libmx/inc/libmx.h
 CMakeFiles/pathfinder_clion.dir/src/mx_error_check.c.o: ../src/mx_error_check.c
 
+CMakeFiles/pathfinder_clion.dir/src/mx_find_all_paths.c.o: ../inc/pathfinder.h
+CMakeFiles/pathfinder_clion.dir/src/mx_find_all_paths.c.o: ../libmx/inc/libmx.h
+CMakeFiles/pathfinder_clion.dir/src/mx_find_all_paths.c.o: ../src/mx_find_all_paths.c
+
 CMakeFiles/pathfinder_clion.dir/src/mx_floydWarshall.c.o: ../inc/pathfinder.h
 CMakeFiles/pathfinder_clion.dir/src/mx_floydWarshall.c.o: ../libmx/inc/libmx.h
 CMakeFiles/pathfinder_clion.dir/src/mx_floydWarshall.c.o: ../src/mx_floydWarshall.c
@@ -84,6 +92,10 @@ CMakeFiles/pathfinder_clion.dir/src/mx_numbers_only.c.o: ../src/mx_numbers_only.
 CMakeFiles/pathfinder_clion.dir/src/mx_read_one_line.c.o: ../inc/pathfinder.h
 CMakeFiles/pathfinder_clion.dir/src/mx_read_one_line.c.o: ../libmx/inc/libmx.h
 CMakeFiles/pathfinder_clion.dir/src/mx_read_one_line.c.o: ../src/mx_read_one_line.c
+
+CMakeFiles/pathfinder_clion.dir/src/mx_ret_trip_output.c.o: ../inc/pathfinder.h
+CMakeFiles/pathfinder_clion.dir/src/mx_ret_trip_output.c.o: ../libmx/inc/libmx.h
+CMakeFiles/pathfinder_clion.dir/src/mx_ret_trip_output.c.o: ../src/mx_ret_trip_output.c
 
 CMakeFiles/pathfinder_clion.dir/src/mx_struct_init.c.o: ../inc/pathfinder.h
 CMakeFiles/pathfinder_clion.dir/src/mx_struct_init.c.o: ../libmx/inc/libmx.h
