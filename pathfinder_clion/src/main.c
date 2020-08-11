@@ -2,7 +2,6 @@
 
 static int get_number_of_bridges(char *filename);
 
-
 int main(int argc, char *argv[]) {
     mx_error_check(argc, argv);
     t_main stct;
@@ -15,8 +14,6 @@ int main(int argc, char *argv[]) {
                 mx_find_all_paths(&stct, i, j);
         }
     }
-    printf("\n\n");
-    system("leaks -q pathfinder_clion");
     return 0;
 }
 

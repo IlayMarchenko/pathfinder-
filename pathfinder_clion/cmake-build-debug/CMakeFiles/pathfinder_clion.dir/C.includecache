@@ -44,3 +44,7 @@ stdarg.h
 ../inc/pathfinder.h
 /Users/imarchenko/CLionProjects/pathfinder_clion/inc/pathfinder.h
 
+/Users/imarchenko/CLionProjects/pathfinder_clion/src/mx_floydWarshall.c
+../inc/pathfinder.h
+/Users/imarchenko/CLionProjects/pathfinder_clion/inc/pathfinder.h
+

@@ -1,22 +1,27 @@
 #include "../inc/pathfinder.h"
 
+static void algorithm(long **array, int number_of_points);
+static void transfer_data(bridges **big_array, long **array, int number_of_points, int c);
 static void add_to_main_struct0(long **array, t_main *stct, int number_of_points);
 static void add_to_main_struct1(long **array, t_main *stct, int number_of_points);
 
 void mx_floydWarshall(bridges **big_array, int number_of_points, t_main *stct) {
-    int n = 0;
     long **array = (long **)malloc(sizeof(long *) * (int)mx_pow(number_of_points, 2));
     for (int k = 0; k < number_of_points; ++k) {
         array[k] = (long *)malloc(sizeof(long) * number_of_points);
     }
-    // transfer data from struct to 2d array
-    for (int i = 0; i < number_of_points; i++) {
-        for (int j = 0; j < number_of_points; j++) {
-            array[i][j] = big_array[n]->distance;
-            n++;
-        }
-    }
+    transfer_data(big_array, array, number_of_points, 0);
     add_to_main_struct0(array, stct, number_of_points);
+    algorithm(array, number_of_points);
+    transfer_data(big_array, array, number_of_points, 1);
+    add_to_main_struct1(array, stct, number_of_points);
+    for (int l = 0; l < number_of_points; ++l) {
+        free(array[l]);
+    }
+    free(array);
+}
+
+static void algorithm(long **array, int number_of_points) {
     // floyd-warshall algorithm
     for (int k = 0; k < number_of_points; k++) {
         for (int i = 0; i < number_of_points; i++) {
@@ -26,19 +31,26 @@ void mx_floydWarshall(bridges **big_array, int number_of_points, t_main *stct) {
             }
         }
     }
-    // transfer data from 2d array to struct
-    n = 0;
-    for (int i = 0; i < number_of_points; i++) {
-        for (int j = 0; j < number_of_points; j++) {
-            big_array[n]->distance = array[i][j];
-            n++;
+}
+
+static void transfer_data(bridges **big_array, long **array, int number_of_points, int c) {
+    int n = 0;
+    if (c == 0) {
+        for (int i = 0; i < number_of_points; i++) {
+            for (int j = 0; j < number_of_points; j++) {
+                array[i][j] = big_array[n]->distance;
+                n++;
+            }
         }
     }
-    add_to_main_struct1(array, stct, number_of_points);
-    for (int l = 0; l < number_of_points; ++l) {
-        free(array[l]);
+    else {
+        for (int i = 0; i < number_of_points; i++) {
+            for (int j = 0; j < number_of_points; j++) {
+                big_array[n]->distance = array[i][j];
+                n++;
+            }
+        }
     }
-    free(array);
 }
 
 static void add_to_main_struct0(long **array, t_main *stct, int number_of_points) {
