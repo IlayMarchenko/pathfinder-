@@ -2,7 +2,7 @@
 #define PATHFINDER_H
 
 
-#include "../libmx/inc/libmx.h"
+#include "libmx/inc/libmx.h"
 #define INF 2147483649
 
 
