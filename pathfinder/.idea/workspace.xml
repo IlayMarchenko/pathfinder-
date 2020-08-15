@@ -11,129 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6393c017-e2bd-45be-b390-e749bb81a84e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/pathfinder.h" beforeDir="false" afterPath="$PROJECT_DIR$/inc/pathfinder.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libmx/src/mx_strsplit.c" beforeDir="false" afterPath="$PROJECT_DIR$/libmx/src/mx_strsplit.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx_add_all_from_array.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx_append_city_to_arr.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx_atoi.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx_back_path.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx_count_character.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx_del_all_numbers_and_com.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx_del_dub.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx_del_not_alphabet.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx_error_1.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx_error_2.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx_error_3.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx_error_4.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx_error_5.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx_error_6.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx_error_7.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx_error_8.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx_error_check.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx_find_all_paths.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx_floydWarshall.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx_get_distance.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx_numbers_only.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx_read_one_line.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx_ret_trip_output.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx_struct_init.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mx_the_biggest_name.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test" beforeDir="false" afterPath="$PROJECT_DIR$/test" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/.idea/dictionaries/imarchenko.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/.idea/pathfinder_clion.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/CMakeFiles/3.16.5/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/CMakeFiles/3.16.5/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/CMakeFiles/3.16.5/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/CMakeFiles/3.16.5/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/CMakeFiles/3.16.5/CompilerIdC/a.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/CMakeFiles/pathfinder_clion.dir/C.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/CMakeFiles/pathfinder_clion.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/CMakeFiles/pathfinder_clion.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/CMakeFiles/pathfinder_clion.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/CMakeFiles/pathfinder_clion.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/CMakeFiles/pathfinder_clion.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/CMakeFiles/pathfinder_clion.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/CMakeFiles/pathfinder_clion.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/CMakeFiles/pathfinder_clion.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/CMakeFiles/pathfinder_clion.dir/src/main.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/CMakeFiles/pathfinder_clion.dir/src/mx_add_all_from_array.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/CMakeFiles/pathfinder_clion.dir/src/mx_append_city_to_arr.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/CMakeFiles/pathfinder_clion.dir/src/mx_atoi.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/CMakeFiles/pathfinder_clion.dir/src/mx_back_path.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/CMakeFiles/pathfinder_clion.dir/src/mx_count_character.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/CMakeFiles/pathfinder_clion.dir/src/mx_del_all_numbers_and_com.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/CMakeFiles/pathfinder_clion.dir/src/mx_del_dub.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/CMakeFiles/pathfinder_clion.dir/src/mx_del_not_alphabet.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/CMakeFiles/pathfinder_clion.dir/src/mx_error_1.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/CMakeFiles/pathfinder_clion.dir/src/mx_error_2.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/CMakeFiles/pathfinder_clion.dir/src/mx_error_3.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/CMakeFiles/pathfinder_clion.dir/src/mx_error_4.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/CMakeFiles/pathfinder_clion.dir/src/mx_error_5.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/CMakeFiles/pathfinder_clion.dir/src/mx_error_6.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/CMakeFiles/pathfinder_clion.dir/src/mx_error_7.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/CMakeFiles/pathfinder_clion.dir/src/mx_error_8.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/CMakeFiles/pathfinder_clion.dir/src/mx_error_check.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/CMakeFiles/pathfinder_clion.dir/src/mx_find_all_paths.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/CMakeFiles/pathfinder_clion.dir/src/mx_floydWarshall.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/CMakeFiles/pathfinder_clion.dir/src/mx_get_distance.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/CMakeFiles/pathfinder_clion.dir/src/mx_numbers_only.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/CMakeFiles/pathfinder_clion.dir/src/mx_read_one_line.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/CMakeFiles/pathfinder_clion.dir/src/mx_ret_trip_output.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/CMakeFiles/pathfinder_clion.dir/src/mx_struct_init.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/CMakeFiles/pathfinder_clion.dir/src/mx_the_biggest_name.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/pathfinder_clion" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/cmake-build-debug/pathfinder_clion.cbp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/inc/pathfinder.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/libmx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/src/main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/src/mx_add_all_from_array.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/src/mx_append_city_to_arr.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/src/mx_atoi.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/src/mx_back_path.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/src/mx_count_character.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/src/mx_del_all_numbers_and_com.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/src/mx_del_dub.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/src/mx_del_not_alphabet.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/src/mx_error_1.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/src/mx_error_2.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/src/mx_error_3.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/src/mx_error_4.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/src/mx_error_5.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/src/mx_error_6.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/src/mx_error_7.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/src/mx_error_8.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/src/mx_error_check.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/src/mx_find_all_paths.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/src/mx_floydWarshall.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/src/mx_get_distance.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/src/mx_numbers_only.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/src/mx_read_one_line.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/src/mx_ret_trip_output.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/src/mx_struct_init.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/src/mx_the_biggest_name.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pathfinder_clion/test.txt" beforeDir="false" />
-    </list>
+    <list default="true" id="6393c017-e2bd-45be-b390-e749bb81a84e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -159,7 +37,7 @@
     <property name="cf.first.check.clang-format" value="false" />
   </component>
   <component name="RunManager">
-    <configuration name="pathfinder" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="../test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pathfinder" TARGET_NAME="pathfinder" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="pathfinder" RUN_TARGET_NAME="pathfinder">
+    <configuration name="pathfinder" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="../test1" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pathfinder" TARGET_NAME="pathfinder" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="pathfinder" RUN_TARGET_NAME="pathfinder">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -176,6 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1597493699889</updated>
       <workItem from="1597493706540" duration="139000" />
+      <workItem from="1597494424320" duration="85000" />
     </task>
     <servers />
   </component>
@@ -183,10 +62,14 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="744" y="352" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597493738939">
+    <state x="744" y="352" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597494510943">
       <screen x="0" y="23" width="2560" height="1334" />
     </state>
-    <state x="744" y="352" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1334@0.23.2560.1334" timestamp="1597493738939" />
+    <state x="744" y="352" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1334@0.23.2560.1334" timestamp="1597494510943" />
+    <state x="1021" y="499" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597494444361">
+      <screen x="0" y="23" width="2560" height="1334" />
+    </state>
+    <state x="1021" y="499" key="#com.intellij.fileTypes.FileTypeChooser/0.23.2560.1334@0.23.2560.1334" timestamp="1597494444361" />
     <state width="2518" height="381" key="GridCell.Tab.0.bottom" timestamp="1597493846263">
       <screen x="0" y="23" width="2560" height="1334" />
     </state>
